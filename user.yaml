@@ -1,0 +1,14 @@
+var:
+  last_build_time: 1611966960
+  option:
+    full_shape: false
+    simplification: true
+  previously_selected_schema: luna_pinyin_simp
+  schema_access_time:
+    double_pinyin_flypy: 1611897374
+    double_pinyin_flypy_fluency: 1583749637
+    emoji: 1585621664
+    flypy_kurosu: 1585627040
+    luna_pinyin: 1611897126
+    luna_pinyin_simp: 1611964340
+    wubi_pinyin: 1611897256
