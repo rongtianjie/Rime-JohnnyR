@@ -1,2 +1,21 @@
 
 .DS_Store
+*.log
+*.ldb
+*.old
+*.bin
+build/stroke.schema.yaml
+build/squirrel.yaml
+build/luna_pinyin_simp.schema.yaml
+build/luna_pinyin_fluency.schema.yaml
+build/easy_en.schema.yaml
+build/double_pinyin_flypy.schema.yaml
+build/default.yaml
+easy_en.userdb/CURRENT
+easy_en.userdb/LOCK
+easy_en.userdb/LOG
+easy_en.userdb/MANIFEST-000088
+luna_pinyin.userdb/CURRENT
+luna_pinyin.userdb/LOCK
+luna_pinyin.userdb/LOG
+luna_pinyin.userdb/MANIFEST-000162
